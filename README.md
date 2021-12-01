@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I am Ryandhimas Zezario 👋
+I am currently doing research in the area of speech processing, focusing in deep learning based speech asessment model, and speech enhancement. 
+
+I am looking for any collaboration in the area of speech processing.
+
+📫 How to reach me: https://www.linkedin.com/in/ryandhimas/
+
 
 <!--
 **dhimasryan/dhimasryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
