@@ -1,9 +1,9 @@
 ### Hi, I am Ryandhimas Zezario 👋
 I am currently doing research in the area of speech processing, focusing in deep learning based speech asessment model, and speech enhancement. 
 
-I am looking for any collaboration in the area of speech processing.
+I am looking forward to collaborating in the area of speech processing.
 
-📫 How to reach me: https://www.linkedin.com/in/ryandhimas/
+📫<a href="https://www.linkedin.com/in/ryandhimas/" target="_blank"> How to reach me</a>  
 
 
 <!--
