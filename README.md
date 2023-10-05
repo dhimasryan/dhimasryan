@@ -1,5 +1,5 @@
-### Hi, I am Ryandhimas Zezario 👋
-I am currently doing research in the area of speech processing, focusing in deep learning based speech asessment model, and speech enhancement. 
+### Hi, I am Ryandhimas Zezario 
+I am currently doing research in the area of speech processing, focusing on deep learning-based speech assessment models, and speech enhancement.
 
 I am looking forward to collaborating in the area of speech processing.
 
